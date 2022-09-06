@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Zaki/AndroidStudioProjects/SalvageAuctionIndia/app/src/main/res/drawable/ic_app_logo.xml" value="0.128" />
+        <entry key="..\:/Zaki/AndroidStudioProjects/SalvageAuctionIndia/app/src/main/res/drawable/ic_bank_seize.xml" value="0.128" />
+        <entry key="..\:/Zaki/AndroidStudioProjects/SalvageAuctionIndia/app/src/main/res/drawable/ic_bank_seized.xml" value="0.128" />
+        <entry key="..\:/Zaki/AndroidStudioProjects/SalvageAuctionIndia/app/src/main/res/drawable/ic_block.xml" value="0.128" />
+        <entry key="..\:/Zaki/AndroidStudioProjects/SalvageAuctionIndia/app/src/main/res/drawable/ic_car_auction.xml" value="0.11" />
+        <entry key="..\:/Zaki/AndroidStudioProjects/SalvageAuctionIndia/app/src/main/res/drawable/ic_car_damage.xml" value="0.2125" />
+        <entry key="..\:/Zaki/AndroidStudioProjects/SalvageAuctionIndia/app/src/main/res/drawable/ic_car_fresh.xml" value="0.2125" />
+        <entry key="..\:/Zaki/AndroidStudioProjects/SalvageAuctionIndia/app/src/main/res/drawable/ic_car_parts.xml" value="0.2125" />
+        <entry key="..\:/Zaki/AndroidStudioProjects/SalvageAuctionIndia/app/src/main/res/drawable/ic_care_logo.xml" value="0.128" />
+        <entry key="..\:/Zaki/AndroidStudioProjects/SalvageAuctionIndia/app/src/main/res/drawable/ic_damage.xml" value="0.2125" />
+        <entry key="..\:/Zaki/AndroidStudioProjects/SalvageAuctionIndia/app/src/main/res/drawable/ic_done.xml" value="0.128" />
+        <entry key="..\:/Zaki/AndroidStudioProjects/SalvageAuctionIndia/app/src/main/res/drawable/ic_empty_list.xml" value="0.128" />
+        <entry key="..\:/Zaki/AndroidStudioProjects/SalvageAuctionIndia/app/src/main/res/drawable/ic_error.xml" value="0.128" />
+        <entry key="..\:/Zaki/AndroidStudioProjects/SalvageAuctionIndia/app/src/main/res/drawable/ic_fresh_cars.xml" value="0.128" />
+        <entry key="..\:/Zaki/AndroidStudioProjects/SalvageAuctionIndia/app/src/main/res/drawable/ic_location.xml" value="0.2125" />
+        <entry key="..\:/Zaki/AndroidStudioProjects/SalvageAuctionIndia/app/src/main/res/drawable/ic_login_svg.xml" value="0.14" />
+        <entry key="..\:/Zaki/AndroidStudioProjects/SalvageAuctionIndia/app/src/main/res/drawable/ic_otp_verification.xml" value="0.1265" />
+        <entry key="..\:/Zaki/AndroidStudioProjects/SalvageAuctionIndia/app/src/main/res/drawable/ic_sell.xml" value="0.2125" />
+        <entry key="..\:/Zaki/AndroidStudioProjects/SalvageAuctionIndia/app/src/main/res/drawable/ic_sign_10.xml" value="0.128" />
+        <entry key="..\:/Zaki/AndroidStudioProjects/SalvageAuctionIndia/app/src/main/res/drawable/ic_sold.xml" value="0.1265" />
+        <entry key="..\:/Zaki/AndroidStudioProjects/SalvageAuctionIndia/app/src/main/res/drawable/ic_spare_parts.xml" value="0.128" />
+        <entry key="..\:/Zaki/AndroidStudioProjects/SalvageAuctionIndia/app/src/main/res/drawable/ic_uploads_successfull.xml" value="0.1265" />
+        <entry key="..\:/Zaki/AndroidStudioProjects/SalvageAuctionIndia/app/src/main/res/drawable/ic_whatsapp.xml" value="0.2125" />
+        <entry key="..\:/Zaki/AndroidStudioProjects/SalvageAuctionIndia/app/src/main/res/mipmap-anydpi-v26/ic_banner.xml" value="0.1" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>

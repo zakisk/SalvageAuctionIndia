@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "92300381594",
+    "project_id": "cloudmessaging-fbcb8",
+    "storage_bucket": "cloudmessaging-fbcb8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:92300381594:android:1caa386cbfc0e88db43e23",
+        "android_client_info": {
+          "package_name": "com.example.salvageauctionindia"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "92300381594-293le5k5t1am85sqgr7i4qj5dq33un01.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.salvageauctionindia",
+            "certificate_hash": "870c9c85049907d15b21e0f035fd3bf9bb894c66"
+          }
+        },
+        {
+          "client_id": "92300381594-7tjs4lqj4dnf43e2d4b1fdim7rut0qdq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCqp9xboYjeEIfGmk5sKvyXxgKPpCGynFg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "92300381594-7tjs4lqj4dnf43e2d4b1fdim7rut0qdq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

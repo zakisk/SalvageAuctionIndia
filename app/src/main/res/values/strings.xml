@@ -1,0 +1,52 @@
+<resources>
+    <string name="app_name">Salvage Auction India</string>
+    <string name="auction">Auction</string>
+    <string name="final_">Final</string>
+    <string name="spare">Spare</string>
+    <string name="fresh">Fresh</string>
+    <string name="bank_seized">Bank Seized</string>
+    <string name="vehicle">Vehicles</string>
+    <string name="part">Parts</string>
+    <string name="home">Home</string>
+    <string name="sell">Sell Car</string>
+    <string name="my_ads">My Ads</string>
+    <string name="rupee">&#x20B9;</string>
+    <string name="missing_belongings">As Per Photos 1 Key, Tool Kit, Spare Wheel, Battery and VIP Number will be Retained by the Owner</string>
+    <string name="note">These are insurance claimed salvage vehicles sold in as is where is condition</string>
+    <string name="terms_and_conditions">1) Inspect vehicles before bidding.\n\n
+2) Interested buyers are requested to physically inspect the salvage vehicles prior to final.\n\n
+3) No guarantee on cheap parts and major parts.\n\n
+4) No guarantee on extra damage .\n\n
+5) If battery, Stepney, tool kit , jack wheel music system will present in workshop you will get other wise is missing.\n\n
+6) Extra fitted accessories will be removed by insured.\n\n
+7) Please see the vehicle physically and bid accordingly.\n\n
+8) The buyer should be ready to lift the vehicle .\n\n
+9) Before placing the quotes/ bids the buyer has to definitely make arrangements for physical inspection pictures attached are just for the referral purpose.\n\n
+10) The extent of damage might not be know exactly through pictures.\n\n
+11) May have the Rc or the insured might be applying for the duplicate Rc the detail are exactly not available buyers may bid accordingly.\n\n
+12) Manufacture year details may be checked in transport or govt website .\n\n
+13) DD needs to be submitted and salvage to be lifted within 5 days without fail.\n\n
+14) Scan copy of DD and buyer affidavit needs to be shared with us before vehicle lifting.\n\n
+15) Ownership to be transferred within 30 days from the date of lifting.\n\n
+16) DD title has been shared on behalf of insured.\n\n
+17) Buyer affidavit needs to be prepared on Rs. 100/- stamp papers duly notarized.\n\n
+18) Salvage wil not be handed over if correct dd and buyer affidavit is submitted to concerned csm and date on affidavit should not be more than 3 days old.\n\n
+19) the photos given are only indicative and you are requested to conduct physically inspection of the vehicle.\n\n
+20) All quote will be considered as given for the vehicle is as is where is condition excluding extra accessories fitting.\n\n
+21) Any additional information required please contact us before participating in auction.\n\n
+22) Final confirmation of vehicle is subject to the consent of insured /consumer minimum approval time is 2 to 20 working days from the date of auction.\n\n
+23) It is clearly advised to have a through physical inspection of the vehicle.\n\n
+    </string>
+
+    <string name="about_us">WelCome to salvage auction india.
+India\'\s leading online salvage auction platform.\n\n
+Here you can find Daily salvage auction of\n
+Total loss Vehicles.\n
+Weather Damage Vehicles.\n
+Floods Loss vehicles.\n
+Fire damage vehicles.\n
+Theft recover vehicles.\n
+Accidental vehicles etc.\n\n
+with 90% approval rate in pan india please let us know how we can help you.
+    </string>
+</resources>
