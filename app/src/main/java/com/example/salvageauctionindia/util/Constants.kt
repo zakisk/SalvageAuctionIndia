@@ -20,9 +20,9 @@ object Constants {
 
     const val USER_INFORMATION_UPLOADED_TO_SERVER = "user information uploaded to server"
 
-    const val BASE_URL = "http://151.106.113.226/"
+    const val BASE_URL = "BASE_URL"
 
-    const val ADMIN_MOBILE_NO = "7385300655"
+    const val ADMIN_MOBILE_NO = "+910000000000"
 
     const val NO_MIN_CHARACTERS_CONSTRAINT = -1
 
